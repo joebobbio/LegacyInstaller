@@ -320,43 +320,183 @@
     "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/3414318646334948892"
   },
   {
-    "BSVersion":"1.27.0",
-    "ManifestId":"3485516174915301618",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3629368753553708497"
+    "BSVersion": "1.27.0",
+    "ManifestId": "3485516174915301618",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/3629368753553708497"
   },
   {
-    "BSVersion":"1.28.0",
-    "ManifestId":"7463243155526905423",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3666530358620442392"
+    "BSVersion": "1.28.0",
+    "ManifestId": "7463243155526905423",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/3666530358620442392"
   },
   {
-    "BSVersion":"1.29.0",
-    "ManifestId":"3341527958186345367",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/6169409105082976092"
+    "BSVersion": "1.29.0",
+    "ManifestId": "3341527958186345367",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/6169409105082976092"
   },
   {
-    "BSVersion":"1.29.1",
-    "ManifestId":"886973241045584398",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/6169409105101272202"
+    "BSVersion": "1.29.1",
+    "ManifestId": "886973241045584398",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/6169409105101272202"
   },
   {
-    "BSVersion":"1.29.4",
-    "ManifestId":"6291266771922375922",
-    "ReleaseURL":"https://steamcommunity.com/ogg/620980/announcements/detail/3708194993422325380"
+    "BSVersion": "1.29.4",
+    "ManifestId": "6291266771922375922",
+    "ReleaseURL": "https://steamcommunity.com/ogg/620980/announcements/detail/3708194993422325380"
   },
   {
-    "BSVersion":"1.30.0",
-    "ManifestId":"7304715857122259127",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3725085394628677636"
+    "BSVersion": "1.30.0",
+    "ManifestId": "7304715857122259127",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/3725085394628677636"
   },
   {
-    "BSVersion":"1.30.2",
-    "ManifestId":"886973241045584398",
-    "ReleaseURL":"https://steamcommunity.com/ogg/620980/announcements/detail/3655280868312846230"
+    "BSVersion": "1.30.2",
+    "ManifestId": "886973241045584398",
+    "ReleaseURL": "https://steamcommunity.com/ogg/620980/announcements/detail/3655280868312846230"
   },
   {
-    "BSVersion":"1.31.0",
-    "ManifestId":"676582354127623831",
-    "ReleaseURL":"https://steamcommunity.com/games/620980/announcements/detail/3674423070127121445"
+    "BSVersion": "1.31.0",
+    "ManifestId": "676582354127623831",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/3674423070127121445"
+  },
+  {
+    "BSVersion": "1.31.1",
+    "ManifestId": "5239818041644201119",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/3664295677895178184"
+  },
+  {
+    "BSVersion": "1.32.0",
+    "ManifestId": "1660149393914874041",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/3723971545002767484"
+  },
+  {
+    "BSVersion": "1.33.0",
+    "ManifestId": "706865160400890715",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/3744239644488431244"
+  },
+  {
+    "BSVersion": "1.34.0",
+    "ManifestId": "3651119791147907495",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/3878224909277653725"
+  },
+  {
+    "BSVersion": "1.34.2",
+    "ManifestId": "8045892568861450718",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/3865840827122760837"
+  },
+  {
+    "BSVersion": "1.34.5",
+    "ManifestId": "7413405154512822201",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4036983137766828695"
+  },
+  {
+    "BSVersion": "1.34.6",
+    "ManifestId": "4398761375819224126",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/7595953477644376721"
+  },
+  {
+    "BSVersion": "1.35.0",
+    "ManifestId": "1490986193481243578",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4142820264819707010"
+  },
+  {
+    "BSVersion": "1.36.0",
+    "ManifestId": "8533509040167838423",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4205873192610459250"
+  },
+  {
+    "BSVersion": "1.36.2",
+    "ManifestId": "4832237377879752064",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4181105931135110118"
+  },
+  {
+    "BSVersion": "1.37.0",
+    "ManifestId": "7270690075584855288",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4161968170153497461"
+  },
+  {
+    "BSVersion": "1.37.1",
+    "ManifestId": "9129356330007601179",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4253168598913260422"
+  },
+  {
+    "BSVersion": "1.37.2",
+    "ManifestId": "6848299977215652352",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4349999161850643744"
+  },
+  {
+    "BSVersion": "1.37.3",
+    "ManifestId": "5834150512217183366",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/6808965920900622902"
+  },
+  {
+    "BSVersion": "1.37.4",
+    "ManifestId": "7585106640515547731",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4601078012425941968"
+  },
+  {
+    "BSVersion": "1.37.5",
+    "ManifestId": "3122533396458693889",
+    "ReleaseURL": "NULL"
+  },
+  {
+    "BSVersion": "1.38.0",
+    "ManifestId": "3482902979520746178",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4669760442595134838"
+  },
+  {
+    "BSVersion": "1.39.0",
+    "ManifestId": "5365094543246905054",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4451339035198095638"
+  },
+  {
+    "BSVersion": "1.39.1",
+    "ManifestId": "2179614296547473280",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/4451340304252928024"
+  },
+  {
+    "BSVersion": "1.40.0",
+    "ManifestId": "8455036253884215709",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/507314379973199787"
+  },
+  {
+    "BSVersion": "1.40.1",
+    "ManifestId": "8655702238937650396",
+    "ReleaseURL": "http://steamcommunity.com/ogg/620980/announcements/detail/510696972023234581"
+  },
+  {
+    "BSVersion": "1.40.2",
+    "ManifestID": "5496832903170665287",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510697606000673692"
+  },
+  {
+    "BSVersion": "1.40.3",
+    "ManifestID": "2468336483467342711",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510699509433500685"
+  },
+  {
+    "BSVersion": "1.40.4",
+    "ManifestID": "3323243802033113443",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510702041542166484"
+  },
+  {
+    "BSVersion": "1.40.5",
+    "ManifestID": "2447038720841508806",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/502825275922317447"
+  },
+  {
+    "BSVersion": "1.40.6",
+    "ManifestID": "3050696685250334115",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510708375093248769"
+  },
+  {
+    "BSVersion": "1.40.7",
+    "ManifestID": "7263483117834945201",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510710285788516821"
+  },
+  {
+    "BSVersion": "1.40.8",
+    "ManifestID": "8437413909225671968",
+    "ReleaseURL": "https://steamcommunity.com/games/620980/announcements/detail/510712822654566578"
   }
 ]
